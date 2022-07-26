@@ -1,0 +1,14 @@
+html {
+    background-color: white;
+}
+
+nav li {
+   display: inline-block;
+}
+.name {
+    color: green;
+}
+
+.traits {
+    color: lightgreen;
+}
